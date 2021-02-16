@@ -1,4 +1,4 @@
-# JS-Questions
+# JS-Questions Arrays
 
 # Beginner - intermediate
 ## 1) Find sum of an array and display the output . Example [10,4,5,2,5,6,9].
