@@ -6,3 +6,7 @@
 # 4) Find Median and Mode of an array. 
   1. Median : (N+1/2)th term.
   2. Mode : Most repeating term
+# 5) Find sum of two arrays.
+  1. [3,5,2,9,4] = 3+5+2+9+4 = 23
+  2. [6,2,8,1,3] = 6+2+8+1+3 = 20 
+    #### Final Output : 20+23 = 43
