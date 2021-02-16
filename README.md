@@ -4,5 +4,5 @@
 # 2) Find average of an array and display the output. 
 # 3) Find maximum and minimum of an array.
 # 4) Find Median and Mode of an array. 
-  ** Median : (N+1/2)th term.
-  ** Mode : Most repeating term
+  *** Median : (N+1/2)th term.
+  *** Mode : Most repeating term
